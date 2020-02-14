@@ -1,0 +1,6 @@
+total 12
+-rw-r--r--. 1 root root  0 Feb 13 06:37 test2
+-rw-r--r--. 1 root root 55 Feb 13 06:34 test4
+-rw-r--r--. 1 root root 53 Feb 13 06:36 test5
+-rw-r--r--. 1 root root 73 Feb 13 06:37 testfile
+root     pts/0        2020-02-13 01:52 (169.254.0.10)
